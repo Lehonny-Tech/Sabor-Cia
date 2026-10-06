@@ -1,0 +1,6 @@
+{
+  "name": "Sabor & Cia - Lanchonete & Delivery",
+  "description": "Aplicativo multiplataforma para lanchonetes e restaurantes com cadastro de novos estabelecimentos, pedidos online, rastreamento em tempo real, cupons, fidelidade e painel administrativo idêntico para gestão de estoque e vendas.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
